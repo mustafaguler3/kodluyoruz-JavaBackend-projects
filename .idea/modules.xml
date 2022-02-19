@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Diagrams/Diagrams.iml" filepath="$PROJECT_DIR$/Diagrams/Diagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diagrams/University.iml" filepath="$PROJECT_DIR$/Diagrams/University.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diagrams/UniversityManagementSystem.iml" filepath="$PROJECT_DIR$/Diagrams/UniversityManagementSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruz-JavaBackend-projects.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruz-JavaBackend-projects.iml" />
