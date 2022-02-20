@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diagrams/Diagrams.iml" filepath="$PROJECT_DIR$/Diagrams/Diagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnlineBankSystem/OnlineBankSystem.iml" filepath="$PROJECT_DIR$/OnlineBankSystem/OnlineBankSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diagrams/University.iml" filepath="$PROJECT_DIR$/Diagrams/University.iml" />
       <module fileurl="file://$PROJECT_DIR$/Diagrams/UniversityManagementSystem.iml" filepath="$PROJECT_DIR$/Diagrams/UniversityManagementSystem.iml" />
